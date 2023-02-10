@@ -3,7 +3,7 @@
 - [x] 07.02.2023 - Fruit into Baskets
 - [ ] 08.02.2023
 - [x] 09.02.2023 - Search Insert Position
-- [ ] 10.02.2023
+- [x] 10.02.2023 - Length of Last Word
 - [ ] 11.02.2023
 - [ ] 12.02.2023
 - [ ] 13.02.2023
