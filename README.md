@@ -5,7 +5,7 @@
 - [x] 09.02.2023 - Search Insert Position
 - [x] 10.02.2023 - Length of Last Word
 - [x] 11.02.2023 - Sudoku Solver
-- [ ] 12.02.2023
+- [x] 12.02.2023 - Plus One
 - [ ] 13.02.2023
 - [ ] 14.02.2023
 - [ ] 15.02.2023
