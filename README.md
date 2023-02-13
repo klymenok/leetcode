@@ -1,12 +1,12 @@
 # leetcode 365
 
-- [x] 07.02.2023 - Fruit into Baskets
+- [x] 07.02.2023 - <span style="color:yellow">Fruit into Baskets</span>
 - [ ] 08.02.2023
-- [x] 09.02.2023 - Search Insert Position
-- [x] 10.02.2023 - Length of Last Word
-- [x] 11.02.2023 - Sudoku Solver
-- [x] 12.02.2023 - Plus One
-- [ ] 13.02.2023
+- [x] 09.02.2023 - <span style="color:green">Search Insert Position</span>
+- [x] 10.02.2023 - <span style="color:green">Length of Last Word</span>
+- [x] 11.02.2023 - <span style="color:red">Sudoku Solver</span>
+- [x] 12.02.2023 - <span style="color:green">Plus One</span>
+- [x] 13.02.2023 - <span style="color:green">Count Odd Number in an Interval Range</span>
 - [ ] 14.02.2023
 - [ ] 15.02.2023
 - [ ] 16.02.2023
