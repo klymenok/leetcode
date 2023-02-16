@@ -8,8 +8,8 @@
 - [x] 12.02.2023 - <span style="color:green">Plus One</span>
 - [x] 13.02.2023 - <span style="color:green">Count Odd Number in an Interval Range</span>
 - [ ] 14.02.2023
-- [X] 15.02.2023- <span style="color:green">Add Binary</span>
-- [ ] 16.02.2023
+- [X] 15.02.2023 - <span style="color:green">Add Binary</span>
+- [x] 16.02.2023 - <span style="color:green">sqrt</span>
 - [ ] 17.02.2023
 - [ ] 18.02.2023
 - [ ] 19.02.2023
