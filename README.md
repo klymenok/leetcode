@@ -10,7 +10,7 @@
 - [ ] 14.02.2023
 - [X] 15.02.2023 - <span style="color:green">Add Binary</span>
 - [x] 16.02.2023 - <span style="color:green">sqrt</span>
-- [ ] 17.02.2023
+- [x] 17.02.2023 - <span style="color:green">Climbing Stairs</span>
 - [ ] 18.02.2023
 - [ ] 19.02.2023
 - [ ] 20.02.2023
