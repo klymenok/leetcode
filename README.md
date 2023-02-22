@@ -13,7 +13,7 @@
 - [x] 17.02.2023 - <span style="color:green">Climbing Stairs</span>
 - [x] 18.02.2023 - <span style="color:red">First Missing Positive</span>
 - [x] 19.02.2023 - <span style="color:green">Bets Time to Buy and Sell Stock</span>
-- [ ] 20.02.2023
+- [x] 20.02.2023 - <span style="color:green">Valid Palindrome</span>
 - [ ] 21.02.2023
 - [ ] 22.02.2023
 - [ ] 23.02.2023
