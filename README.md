@@ -14,7 +14,7 @@
 - [x] 18.02.2023 - <span style="color:red">First Missing Positive</span>
 - [x] 19.02.2023 - <span style="color:green">Bets Time to Buy and Sell Stock</span>
 - [x] 20.02.2023 - <span style="color:green">Valid Palindrome</span>
-- [ ] 21.02.2023
+- [x] 21.02.2023 - <span style="color:green">Remove Duplicates from Sorted List</span>
 - [ ] 22.02.2023
 - [ ] 23.02.2023
 - [ ] 24.02.2023
