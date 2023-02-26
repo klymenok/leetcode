@@ -18,7 +18,7 @@
 - [x] 22.02.2023 - <span style="color:green">Reverse Linked List</span>
 - [x] 23.02.2023 - <span style="color:yellow">Rotate List</span>
 - [x] 24.02.2023 - <span style="color:red">Design a Text Editor</span>
-- [ ] 25.02.2023
+- [x] 25.02.2023 - <span style="color:yellow">Remove Duplicates from Sorted List II</span>
 - [ ] 26.02.2023
 - [ ] 27.02.2023
 - [ ] 28.02.2023
