@@ -1,24 +1,30 @@
-from typing import Optional
+class Solution(object):
+    def searchInsert(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        # Last and First indexes
+        start = 0
+        end = len(nums) - 1
+        # Traverse an array
+        while (start <= end):
+            mid = (start + end)//2
+            # if target value found.
+            if nums[mid] == target:
+                return mid
+            # If target value is greater then mid elements's value
+            elif target > nums[mid]:
+                start = mid + 1
+            # otherwise target value is less,
+            else:
+                end = mid -1
+        # Return the insertion position
+        return end + 1
 
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-
-class Solution:
-    def get_next_unique(self, node: ListNode, value: int):
-        while node.val == value:
-            if not node.next:
-                return None
-            node = node.next
-        return node
-
-    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        lst = head
-        while lst and lst.next:
-            if lst.val == lst.next.val:
-                lst.next = self.get_next_unique(lst, lst.val)
-            lst = lst.next
-        return head
+if __name__ == '__main__':
+    s = Solution()
+    nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    target = 10
+    print(s.searchInsert(nums, target))
