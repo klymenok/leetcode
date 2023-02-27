@@ -20,5 +20,5 @@
 - [x] 24.02.2023 - <span style="color:red">Design a Text Editor</span>
 - [x] 25.02.2023 - <span style="color:yellow">Remove Duplicates from Sorted List II</span>
 - [x] 26.02.2023 - <span style="color:green">Merge Sorted Array</span>
-- [ ] 27.02.2023
+- [x] 27.02.2023 - <span style="color:green">Pascal's Triangle</span>
 - [ ] 28.02.2023
