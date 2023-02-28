@@ -22,7 +22,7 @@
 - [x] 26.02.2023 - <span style="color:green">Merge Sorted Array</span>
 - [x] 27.02.2023 - <span style="color:green">Pascal's Triangle</span>
 - [x] 28.02.2023 - <span style="color:yellow">Pow(x, n)</span>
-- [ ] 01.03.2023 -
+- [x] 01.03.2023 - <span style="color:yellow">Divide Two Integers</span>
 - [ ] 02.03.2023 -
 - [ ] 03.03.2023 -
 - [ ] 04.03.2023 -
