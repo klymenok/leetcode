@@ -25,7 +25,7 @@
 - [x] 01.03.2023 - <span style="color:yellow">Divide Two Integers</span>
 - [x] 02.03.2023 - <span style="color:green">Remove Linked List Elements</span>
 - [ ] 03.03.2023 - <span style="color:yellow">Rotate Image</span>
-- [ ] 04.03.2023 -
+- [ ] 04.03.2023 - <span style="color:yellow">Search a 2D Matrix</span>
 - [ ] 05.03.2023 -
 - [ ] 06.03.2023 -
 - [ ] 07.03.2023 -
