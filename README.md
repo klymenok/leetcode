@@ -29,7 +29,7 @@
 - [x] 05.03.2023 - <span style="color:yellow">Find the Index of the First Occurrence in a String</span>
 - [x] 06.03.2023 - <span style="color:yellow">Group Anagram</span>
 - [x] 07.03.2023 - <span style="color:yellow">Permutations</span>
-- [ ] 08.03.2023 -
+- [x] 08.03.2023 - <span style="color:yellow">Spiral Order</span>
 - [ ] 09.03.2023 -
 - [ ] 10.03.2023 -
 - [ ] 11.03.2023 -
