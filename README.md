@@ -32,7 +32,7 @@
 - [x] 08.03.2023 - <span style="color:yellow">Spiral Order</span>
 - [x] 09.03.2023 - <span style="color:yellow">Remove Duplicates From Sorted Array 2</span>
 - [x] 10.03.2023 - <span style="color:green">Linked List Cycle</span>
-- [ ] 11.03.2023 -
+- [x] 11.03.2023 - <span style="color:green">Intersection of Two Linked Lists</span>
 - [ ] 12.03.2023 -
 - [ ] 13.03.2023 -
 - [ ] 14.03.2023 -
