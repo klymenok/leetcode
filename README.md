@@ -31,7 +31,7 @@
 - [x] 07.03.2023 - <span style="color:yellow">Permutations</span>
 - [x] 08.03.2023 - <span style="color:yellow">Spiral Order</span>
 - [x] 09.03.2023 - <span style="color:yellow">Remove Duplicates From Sorted Array 2</span>
-- [ ] 10.03.2023 -
+- [x] 10.03.2023 - <span style="color:green">Linked List Cycle</span>
 - [ ] 11.03.2023 -
 - [ ] 12.03.2023 -
 - [ ] 13.03.2023 -
