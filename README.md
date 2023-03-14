@@ -33,7 +33,7 @@
 - [x] 09.03.2023 - <span style="color:yellow">Remove Duplicates From Sorted Array 2</span>
 - [x] 10.03.2023 - <span style="color:green">Linked List Cycle</span>
 - [x] 11.03.2023 - <span style="color:green">Intersection of Two Linked Lists</span>
-- [ ] 12.03.2023 -
+- [x] 12.03.2023 - <span style="color:green">Excel Sheet Column Title</span>
 - [ ] 13.03.2023 -
 - [ ] 14.03.2023 -
 - [ ] 15.03.2023 -
