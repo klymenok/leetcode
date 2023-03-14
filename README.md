@@ -34,7 +34,7 @@
 - [x] 10.03.2023 - <span style="color:green">Linked List Cycle</span>
 - [x] 11.03.2023 - <span style="color:green">Intersection of Two Linked Lists</span>
 - [x] 12.03.2023 - <span style="color:green">Excel Sheet Column Title</span>
-- [ ] 13.03.2023 -
+- [x] 13.03.2023 - <span style="color:green">Pascal's Triangle II</span>
 - [ ] 14.03.2023 -
 - [ ] 15.03.2023 -
 - [ ] 16.03.2023 -
