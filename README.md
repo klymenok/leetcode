@@ -37,7 +37,7 @@
 - [x] 13.03.2023 - <span style="color:green">Pascal's Triangle II</span>
 - [x] 14.03.2023 - <span style="color:green">Excel Sheet Column Number</span>
 - [x] 15.03.2023 - <span style="color:green">Single Number</span>
-- [ ] 16.03.2023 -
+- [x] 16.03.2023 - <span style="color:green">Combine Two Tables</span>
 - [ ] 17.03.2023 -
 - [ ] 18.03.2023 -
 - [ ] 19.03.2023 -
