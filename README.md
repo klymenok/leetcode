@@ -39,8 +39,8 @@
 - [x] 15.03.2023 - <span style="color:green">Single Number</span>
 - [x] 16.03.2023 - <span style="color:green">Combine Two Tables</span>
 - [x] 17.03.2023 - <span style="color:green">Reverse Bits</span>
-- [ ] 18.03.2023 - <span style="color:red">Candy</span>
-- [ ] 19.03.2023 -
+- [x] 18.03.2023 - <span style="color:red">Candy</span>
+- [x] 19.03.2023 - <span style="color:red">Burst Balloons</span>
 - [ ] 20.03.2023 -
 - [ ] 21.03.2023 -
 - [ ] 22.03.2023 -
