@@ -46,7 +46,7 @@
 - [x] 22.03.2023 - <span style="color:green">Employees Earning More Than Their Managers</span>
 - [x] 23.03.2023 - <span style="color:green">Number of 1 Bits</span>
 - [x] 24.03.2023 - <span style="color:green">Power of Two</span>
-- [ ] 25.03.2023 -
+- [x] 25.03.2023 - <span style="color:green">Missing Number</span>
 - [ ] 26.03.2023 -
 - [ ] 27.03.2023 -
 - [ ] 28.03.2023 -
