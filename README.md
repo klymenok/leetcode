@@ -47,7 +47,7 @@
 - [x] 23.03.2023 - <span style="color:green">Number of 1 Bits</span>
 - [x] 24.03.2023 - <span style="color:green">Power of Two</span>
 - [x] 25.03.2023 - <span style="color:green">Missing Number</span>
-- [ ] 26.03.2023 -
+- [x] 26.03.2023 - <span style="color:green">Power of Two</span>
 - [ ] 27.03.2023 -
 - [ ] 28.03.2023 -
 - [ ] 29.03.2023 -
