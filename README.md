@@ -45,7 +45,7 @@
 - [x] 21.03.2023 - <span style="color:green">Majority Element</span>
 - [x] 22.03.2023 - <span style="color:green">Employees Earning More Than Their Managers</span>
 - [x] 23.03.2023 - <span style="color:green">Number of 1 Bits</span>
-- [ ] 24.03.2023 -
+- [x] 24.03.2023 - <span style="color:green">Power of Two</span>
 - [ ] 25.03.2023 -
 - [ ] 26.03.2023 -
 - [ ] 27.03.2023 -
