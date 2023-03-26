@@ -41,7 +41,7 @@
 - [x] 17.03.2023 - <span style="color:green">Reverse Bits</span>
 - [x] 18.03.2023 - <span style="color:red">Candy</span>
 - [x] 19.03.2023 - <span style="color:red">Burst Balloons</span>
-- [ ] 20.03.2023 -
+- [x] 20.03.2023 - <span style="color:yellow">Remove Duplicate Letters</span>
 - [ ] 21.03.2023 -
 - [ ] 22.03.2023 -
 - [ ] 23.03.2023 -
