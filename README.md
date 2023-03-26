@@ -44,7 +44,7 @@
 - [x] 20.03.2023 - <span style="color:yellow">Remove Duplicate Letters</span>
 - [x] 21.03.2023 - <span style="color:green">Majority Element</span>
 - [x] 22.03.2023 - <span style="color:green">Employees Earning More Than Their Managers</span>
-- [ ] 23.03.2023 -
+- [x] 23.03.2023 - <span style="color:green">Number of 1 Bits</span>
 - [ ] 24.03.2023 -
 - [ ] 25.03.2023 -
 - [ ] 26.03.2023 -
