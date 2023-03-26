@@ -42,7 +42,7 @@
 - [x] 18.03.2023 - <span style="color:red">Candy</span>
 - [x] 19.03.2023 - <span style="color:red">Burst Balloons</span>
 - [x] 20.03.2023 - <span style="color:yellow">Remove Duplicate Letters</span>
-- [ ] 21.03.2023 -
+- [x] 21.03.2023 - <span style="color:green">Majority Element</span>
 - [ ] 22.03.2023 -
 - [ ] 23.03.2023 -
 - [ ] 24.03.2023 -
