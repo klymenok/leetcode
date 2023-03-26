@@ -43,7 +43,7 @@
 - [x] 19.03.2023 - <span style="color:red">Burst Balloons</span>
 - [x] 20.03.2023 - <span style="color:yellow">Remove Duplicate Letters</span>
 - [x] 21.03.2023 - <span style="color:green">Majority Element</span>
-- [ ] 22.03.2023 -
+- [x] 22.03.2023 - <span style="color:green">Employees Earning More Than Their Managers</span>
 - [ ] 23.03.2023 -
 - [ ] 24.03.2023 -
 - [ ] 25.03.2023 -
